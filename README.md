@@ -10,7 +10,7 @@ summarization and alert capabilities can reduce the noise of information overloa
 The problem at hand is how to efficiently extract and sum-marise information from multiple search engines—Google,DuckDuckGo, Yahoo, Yandex, and Microsoft Edge—while offering real-time, personalised updates that are tailored to users’ specific interests.
 
 # Methodology
-![Alt text]("C:\Users\Sejal\Downloads\methodology_nlp.jpg")
+![methodology_nlp](https://github.com/user-attachments/assets/a5474de6-5a81-49f9-b380-94eede0a0172)
 
 # A. Data collection
 The system starts by allowing users to input a search
